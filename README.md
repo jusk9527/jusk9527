@@ -8,5 +8,5 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">信条  
 
-- 内心就像树一样,树却是向往高处的光亮。它的根就要越向下,向泥土,向黑暗的深处
+- 人的内心就像树一样,树却是向往高处的光亮。它的根就要越向下,向泥土,向黑暗的深处
 ---
