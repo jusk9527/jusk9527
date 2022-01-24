@@ -9,4 +9,9 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">信条  
 
 - 人的内心就像树一样,树却是向往高处的光亮。它的根就要越向下,向泥土,向黑暗的深处
+
+2022 目标
+
+1. 完善iast 引擎
+2. 完善代理 Limbo 
 ---
