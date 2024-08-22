@@ -2,7 +2,6 @@
 <img align='right' src="https://media.giphy.com/media/o7OChVtT1oqmk/giphy.gif" width="230">
 
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/Dsfskjffff?style=social)](https://twitter.com/Dsfskjffff)
 [![GitHub Thaiane](https://img.shields.io/github/followers/jusk9527?label=follow&style=social)](https://github.com/jusk9527)
 
 
